@@ -10,7 +10,7 @@ export function Signup() {
 
   // User Login info
   const database = [];
-
+ 
   const errors = {
     uname: "invalid username"
   };
