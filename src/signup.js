@@ -51,7 +51,7 @@ export function Signup() {
       <div className="input-container">
           <label>First name </label>
           <input type="text" name="fname" required />
-        </div>
+        </div> 
         <div className="input-container">
           <label>Last name </label>
           <input type="text" name="lname" required />
